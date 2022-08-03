@@ -1,3 +1,12 @@
 <resources>
-  <string name="app_name">Base Project</string>
+    <string name="app_name">Widget_Assignment</string>
+    <string name="add_widget">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="sample_countdown_text">Event is in</string>
+    <string name="sample_days">0</string>
+    <string name="sample_update_count">0</string>
+    <string name="sample_update_time_res">00:00</string>
+    <string name="sample_target_date">2100-01-01</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="app_widget_description">This is an app widget description</string>
 </resources>
